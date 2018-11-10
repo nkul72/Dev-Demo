@@ -24,7 +24,7 @@
       "value": "MyAvailabilitySet"
     },
     "dnsPrefixForPublicIP": {
-      "value": "GEN-UNIQUE-12"
+      "value": "nknet"
     }
   }
 }
