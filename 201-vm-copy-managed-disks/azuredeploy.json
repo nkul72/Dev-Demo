@@ -16,7 +16,7 @@
       }
     },
     "virtualMachineNamePrefix": {
-      "defaultValue": "MyVM0",
+      "defaultValue": "contosovm0",
       "type": "string",
       "maxLength": 15,
       "metadata": {
@@ -25,7 +25,7 @@
     },
     "virtualMachineCount": {
       "type": "int",
-      "defaultValue": 3,
+      "defaultValue": 2,
       "metadata": {
         "description": "Number of  virtual machines to be created"
       }
